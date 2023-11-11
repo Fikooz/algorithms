@@ -10,7 +10,7 @@ function checkSeason(month) {
   }
 }
 
-// Example usage:
-let currentMonth = 8; // You can change this to the current month.
+
+let currentMonth = 8; 
 let currentSeason = checkSeason(currentMonth);
 console.log(`We are in ${currentSeason}.`);
